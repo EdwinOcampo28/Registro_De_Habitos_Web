@@ -1,0 +1,18 @@
+REGISTRO DE HÁBITOS — VERSIÓN WEB
+=================================
+
+CONTENIDO
+- INICIAR_WEB.bat: abre la aplicación en el navegador predeterminado.
+- web/: interfaz, estilos, scripts y recursos gráficos.
+
+INICIO
+1. Extrae esta carpeta completa.
+2. Abre INICIAR_WEB.bat.
+3. Crea un perfil o inicia sesión en el navegador donde quieras guardar el progreso.
+
+No requiere Python, internet ni servidor. Conserva la carpeta web junto al iniciador.
+
+DATOS Y RESPALDOS
+Los perfiles y registros se guardan en el almacenamiento local del navegador. No se sincronizan con la versión de terminal, otros navegadores ni otros equipos. Usa Datos y respaldo para exportar JSON periódicamente. La aplicación permite importar y combinar respaldos web y respaldos JSON creados por la versión de terminal.
+
+El inicio de sesión es una separación básica de perfiles para uso personal. Las contraseñas no están cifradas y los datos no deben considerarse protegidos para información sensible.
